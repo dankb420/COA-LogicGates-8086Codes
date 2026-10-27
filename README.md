@@ -1,4 +1,4 @@
-# EXPERIMENT-01: BUILDING LOGICAL CIRCUITS
+<img width="886" height="503" alt="image" src="https://github.com/user-attachments/assets/e639123f-6dc1-45f3-bbcb-ab8dd7843d59" /><img width="886" height="503" alt="image" src="https://github.com/user-attachments/assets/2ebeb2c6-5713-466b-8fd5-015dd27e4d04" /><img width="886" height="503" alt="image" src="https://github.com/user-attachments/assets/1312a854-dc82-416a-8fe4-fb79e9680b2c" /><img width="886" height="503" alt="image" src="https://github.com/user-attachments/assets/c67e18ac-2ee6-4467-a475-03b3ac20d489" /><img width="886" height="503" alt="image" src="https://github.com/user-attachments/assets/021c969e-6f74-4fc8-b8ab-b10adcc3a4a9" /><img width="886" height="503" alt="image" src="https://github.com/user-attachments/assets/a6c815e5-60c6-4a94-9904-3a0fafe9c105" /># EXPERIMENT-01: BUILDING LOGICAL CIRCUITS
 
 ## 1. Aim
 
@@ -28,11 +28,12 @@ F1 = (!A & B & C)
    | (!B & C & D)
    | (A & !C & D)
 ```
+<img width="876" height="547" alt="image" src="https://github.com/user-attachments/assets/7d3bbef8-dfbf-4773-8561-70f4ab6f4493" />
+
 
 **Inputs:** A, B, C, D  
 **Output:** F1  
 **Challenge:** Simplify the expression and compare gate counts.
-![Uploading image.png…]()
 
 
 ### Equation 2: Product-of-Sums Circuit
