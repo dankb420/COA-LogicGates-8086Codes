@@ -45,6 +45,8 @@ F2 = (A | !B | C)
 **Inputs:** A, B, C, D  
 **Output:** F2  
 **Challenge:** Implement the circuit using NAND gates and verify functional equivalence.
+<img width="762" height="470" alt="image" src="https://github.com/user-attachments/assets/a1f197cf-aa46-4d97-bd4f-08d83184dc4d" />
+
 
 ### Equation 3: Nested Complement Logic
 
