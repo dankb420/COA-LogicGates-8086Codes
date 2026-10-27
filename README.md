@@ -32,6 +32,8 @@ F1 = (!A & B & C)
 **Inputs:** A, B, C, D  
 **Output:** F1  
 **Challenge:** Simplify the expression and compare gate counts.
+![Uploading image.png…]()
+
 
 ### Equation 2: Product-of-Sums Circuit
 
