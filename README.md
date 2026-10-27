@@ -29,8 +29,6 @@ F1 = (!A & B & C)
    | (A & !C & D)
 ```
 <img width="876" height="547" alt="image" src="https://github.com/user-attachments/assets/7d3bbef8-dfbf-4773-8561-70f4ab6f4493" />
-
-
 **Inputs:** A, B, C, D  
 **Output:** F1  
 **Challenge:** Simplify the expression and compare gate counts.
