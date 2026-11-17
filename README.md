@@ -28,7 +28,7 @@ F1 = (!A & B & C)
    | (!B & C & D)
    | (A & !C & D)
 ```
-<img width="876" height="547" alt="image" src="https://github.com/user-attachments/assets/7d3bbef8-dfbf-4773-8561-70f4ab6f4493" />
+
 **Inputs:** A, B, C, D  
 **Output:** F1  
 **Challenge:** Simplify the expression and compare gate counts.
@@ -45,7 +45,6 @@ F2 = (A | !B | C)
 **Inputs:** A, B, C, D  
 **Output:** F2  
 **Challenge:** Implement the circuit using NAND gates and verify functional equivalence.
-<img width="762" height="470" alt="image" src="https://github.com/user-attachments/assets/a1f197cf-aa46-4d97-bd4f-08d83184dc4d" />
 
 
 ### Equation 3: Nested Complement Logic
@@ -164,7 +163,14 @@ For each circuit, record:
 - Functional equivalence before and after simplification
 
 ## 7. Expected Results (drop the screenshots of each equations circuit )
-
+<img width="876" height="547" alt="image" src="https://github.com/user-attachments/assets/7d3bbef8-dfbf-4773-8561-70f4ab6f4493" />
+<img width="762" height="470" alt="image" src="https://github.com/user-attachments/assets/a1f197cf-aa46-4d97-bd4f-08d83184dc4d" />
+<img width="1417" height="652" alt="image" src="https://github.com/user-attachments/assets/5ebedfda-2a35-4303-b7bc-aaebf72c7645" />
+<img width="1047" height="530" alt="image" src="https://github.com/user-attachments/assets/657ce7c5-b008-46a5-a40b-4b8a61a60ef6" />
+<img width="1326" height="650" alt="image" src="https://github.com/user-attachments/assets/a134ae13-a00a-43d5-bf0b-27c191048759" />
+<img width="1153" height="625" alt="image" src="https://github.com/user-attachments/assets/3b1dbb5a-c0c3-4f29-b7df-3bb72d9b9bb3" />
+<img width="1056" height="582" alt="image" src="https://github.com/user-attachments/assets/208e75d6-6319-4918-8c00-c02c92d683eb" />
+<img width="1302" height="652" alt="image" src="https://github.com/user-attachments/assets/b7e25c6c-a95f-4f5e-9d31-03799fb2508c" />
 
 
 
